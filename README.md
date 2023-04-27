@@ -5,5 +5,6 @@ Effective Go（Go 语言的实效性）文件为使用 Go 编程语言编写清�
 
 ## 参考
 
-Effective Go
-Rust 和 Go
+https://go.dev/doc/effective_go
+
+[2023年的Rust与Go[译]](https://mp.weixin.qq.com/s?__biz=MzIyNzM0MDk0Mg==&mid=2247494122&idx=1&sn=7aca8a83b7e0d6d1fe3fe1635db72b8a&chksm=e8600e0bdf17871db81f505482ce7a392041e8d61981ae8c560a1a7222ea6ee4baed2b22197a&mpshare=1&scene=1&srcid=0223hLVLGO5MpoF8cCZffEMT&sharer_sharetime=1677150776455&sharer_shareid=4213fd857d5e1093a89959d8b61544cb&version=4.1.0.70174&platform=mac#rd)
